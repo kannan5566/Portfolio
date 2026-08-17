@@ -146,7 +146,7 @@ function Hero() {
         <div className="hero-cta">
           <a href="#projects" className="btn btn-primary">View projects</a>
           <a href="#contact" className="btn btn-ghost">Get in touch</a>
-  <a href="/Kannan_N_Resume.pdf" download className="btn btn-ghost">Download Resume</a>
+ <a href="/Portfolio/resume.pdf" download className="btn btn-ghost">Download Resume</a>
 </div>
         <div className="hero-stats">
           <div>
