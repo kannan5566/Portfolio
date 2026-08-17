@@ -252,6 +252,12 @@ const PROJECTS = [
     desc: 'A multi-agent AI system that autonomously generates optimized, real-time travel itineraries — coordinating multiple agents to balance routing, timing, and preferences without manual input.',
     tags: ['Streamlit', 'Python', 'MongoDB', 'Multi-agent AI'],
   },
+  {
+    index: '03',
+    title: 'Find My Labour',
+    desc: 'Find My Labour is a full-stack digital labour marketplace built with React and Django REST Framework, connecting Indias 450 million unorganized daily wage workers directly with organizations and contractors — eliminating middlemen completely.',
+    tags: ['TailwindCSS', 'Django','GST Regex Validator','Ollama','MockIVR Dialer','MongoDB'],
+  },
 ]
 
 function Projects() {
